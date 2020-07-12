@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/rdsimes/rdsimes.github.io",
   "dependencies": {
-    "handlebars": "^2.0.0"
+    "handlebars": "^4.7.6"
   }
 }
